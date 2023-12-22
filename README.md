@@ -10,3 +10,6 @@
 <img src="https://github.com/Mohitraj27/NewsRoom/assets/87956374/ddd68c1a-99bb-4162-a0f8-b1eacf93c184" alt="Image" width="120" height="70">
 <img src="https://github.com/Mohitraj27/NewsRoom/assets/87956374/675a4f22-6097-454f-b2ca-4750084a90d0" alt="Image" width="120" height="30">
 
+
+## Snapshots
+![i](https://github.com/Mohitraj27/NewsRoom/assets/87956374/303088f1-72d4-45d8-ab62-7feb6bb48a5f)
