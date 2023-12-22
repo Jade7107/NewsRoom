@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.newsroom"
+    namespace = "com.mohit.newsroom"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.newsroom"
+        applicationId = "com.mohit.newsroom"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

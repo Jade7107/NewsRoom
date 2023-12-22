@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="com.mohit.newsroom.MainActivity">
 
    <androidx.appcompat.widget.Toolbar
        android:layout_width="match_parent"
@@ -12,20 +12,27 @@
        android:layout_marginTop="0dp"
        android:background="@color/white"
        android:id="@+id/toolbar">
-
+         <ImageView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:src="@drawable/baseline_newspaper_24"/>
        <RelativeLayout
            android:layout_width="match_parent"
            android:layout_height="match_parent"
+
            android:gravity="center_vertical">
            <TextView
                android:layout_width="wrap_content"
                android:layout_height="wrap_content"
                android:text="News Feed"
+               android:layout_marginStart="10dp"
                android:textSize="20sp"
                android:textStyle="bold"
+
                android:textColor="#03A9F4">
 
            </TextView>
+           
        </RelativeLayout>
    </androidx.appcompat.widget.Toolbar>
        <com.google.android.material.tabs.TabLayout
